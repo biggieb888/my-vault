@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "613c8e8728d688c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d04b124f23ad423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740174655ad2968b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Knowledge/Website building.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Website building"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a0bcb214bb5a41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af837282d851fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbffbd1d8850c253",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27fc35f6ba63caa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "071b558793424bb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "128de07c9e343f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "392b25d38ff36bd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8699d5bfb434614",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian"
+            }
+          },
+          {
+            "id": "dc3854b3cd25d39a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian"
+            }
+          },
+          {
+            "id": "1795a3dc904d847b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7277d7c64838fd2f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9dcaf3f49fb8b217",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian"
+            }
+          },
+          {
+            "id": "a739818ae779ed4d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "740174655ad2968b",
+  "lastOpenFiles": [
+    "02 Daily Notes/2026-06-05.md",
+    "02 Daily Notes/2026-06-05.md",
+    "02 Daily Notes/2026-06-05 1.md",
+    "02 Daily Notes/2026-05-29.md",
+    "05 Knowledge/Website building.md",
+    "desktop.ini",
+    "07 Templates/# Meeting Notes - % tp.date.now(DD.txt",
+    "02 Daily Notes/2026-05-28.md",
+    "2026-05-29.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2026-05-28.md",
+    "Welcome.md",
+    "Obsidian.md",
+    "02 Daily Notes/28-05-2026.md",
+    "08 Archive",
+    "06 Meetings/desktop.ini",
+    "07 Templates",
+    "06 Meetings",
+    "05 Knowledge",
+    "03 Work/desktop.ini",
+    "04 Projects",
+    "03 Work"
+  ]
+}

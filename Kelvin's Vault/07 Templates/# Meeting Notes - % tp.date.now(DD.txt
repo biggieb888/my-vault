@@ -1,0 +1,7 @@
+# Meeting Notes - <% tp.date.now("DD MMM YYYY") %>
+
+## Attendees
+
+## Agenda
+
+## Action Items
